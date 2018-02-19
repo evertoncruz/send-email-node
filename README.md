@@ -1,6 +1,6 @@
 # send-email-node
 
-Exemplo de utilização de do pacote nodemailer ;)
+Exemplo de utilização do pacote nodemailer ;)
 
 ## Referência
 
