@@ -1,0 +1,22 @@
+{
+  "name": "send-email-node",
+  "version": "1.0.0",
+  "description": "Estudo de envio de email com NODE",
+  "main": "sendEmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evertoncruz/send-email-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evertoncruz/send-email-node/issues"
+  },
+  "homepage": "https://github.com/evertoncruz/send-email-node#readme",
+  "dependencies": {
+    "nodemailer": "^4.4.2"
+  }
+}
